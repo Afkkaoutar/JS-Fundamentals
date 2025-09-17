@@ -1,1 +1,1 @@
-console.log('Hello JS!');
+const message = 'Hello, Git and GitHub!'; console.log(message);
